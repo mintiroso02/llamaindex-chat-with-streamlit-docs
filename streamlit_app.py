@@ -87,7 +87,7 @@ with st.sidebar:
     st.markdown("- What is the current wait time for processing Biodata and latest grades?")
     st.markdown("- Who is responsible for reviewing and signing the Scholarship Contract?")
   
-st.set_page_config(page_title="Gingoog City Citizen's Charter, page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
+st.set_page_config(page_title="Gingoog City Citizen Charter, page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
 openai.api_key = st.secrets.openai_key
 st.title("Citizen's Charter, City Mayor's Office 💬🦙")
 st.info("Together we Can Unite", icon="📃")
