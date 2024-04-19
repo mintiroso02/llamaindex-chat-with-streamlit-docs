@@ -14,63 +14,37 @@ with st.sidebar:
     st.header("About")
     st.markdown(
         """
-        Welcome to the AI-Integrated Citizen's Charter System, 
-        designed to streamline and enhance the efficiency of 
-        public service delivery. Our system leverages the power 
-        of artificial intelligence (AI) to provide a seamless and 
-        transparent experience for citizens availing services 
-        from government offices.
+       About This Interactive Citizen's Charter
 
-        Key Features:
+Welcome to the Interactive Citizen's Charter of Gingoog City! 
+This program is designed to provide you with quick and accurate 
+information about your rights, responsibilities, and the services 
+available to you as a resident of Gingoog City.
 
-        Efficient Service Processing: The system automates 
-        various processes involved in service delivery, reducing 
-        processing times and enhancing overall efficiency.
+Features:
 
-        Transparent and Accessible: Citizens can easily access 
-        information about the services offered, requirements, 
-        processing steps, and fees through an intuitive online platform.
+Easy Access: Simply input your question or situation, and the program 
+will provide you with relevant information based on the 
+citizen's charter of Gingoog City.
+Comprehensive Information: Our database includes detailed information about various 
+services, timelines, and more, as outlined in the official citizen's charter of Gingoog City.
+Empowering Citizens: We aim to empower you by giving you access to essential information 
+that helps you understand your rights and obligations, and enables you to 
+navigate public services effectively.
+Disclaimer:
 
-        AI-Powered Assistance: Our AI technology provides personalized 
-        assistance to citizens, guiding them through the steps required 
-        to avail services and answering common queries in real-time.
+While every effort has been made to ensure the accuracy and relevance of the 
+information provided, please note that this program relies on available data 
+and may not cover every specific situation. For any legal or official matters, 
+we recommend consulting the official documents and authorities of Gingoog City.
 
-        Integrated Database: The system maintains a centralized database 
-        of services, requirements, client information, payments, and issued 
-        clearances, ensuring data accuracy and consistency.
+Feedback:
 
-        Citizen Feedback Mechanism: We value citizen feedback and have 
-        incorporated a feedback mechanism to gather input on service quality, 
-        allowing us to continuously improve our services.
+Your feedback is valuable to us! If you have any suggestions, encounter any issues, 
+or want to contribute to improving this program, please don't hesitate to reach out to us.
 
-        Benefits for Citizens:
-
-        Simplified Process: Citizens can easily navigate through the service 
-        requirements and steps, reducing confusion and improving user experience.
-        
-        Time and Cost Savings: The streamlined process and reduced processing 
-        times save citizens valuable time and effort.
-        
-        Transparency: Citizens have access to transparent information about service 
-        fees, processing times, and requirements, promoting accountability and trust.
-        
-        Improved Service Quality: AI integration enables quick resolution of queries 
-        and issues, leading to better service delivery and customer satisfaction.
-        
-        How to Use the System:
-
-        Visit our online platform or mobile app to access the list of services 
-        offered by government offices.
-        
-        Select the desired service and review the checklist of requirements, 
-        processing steps, and fees.
-        
-        Follow the guided steps provided by the AI assistant to submit necessary 
-        documents and complete the payment process.
-        
-        
-        Provide feedback on your experience to help us enhance our services further.
-        At AI-Integrated Citizen's Charter System, we are committed to leveraging technology to create a more citizen-centric and efficient public service environment. We strive to provide accessible, transparent, and high-quality services that meet the needs of our citizens effectively.
+Thank you for using the Interactive Citizen's Charter of Gingoog City. 
+We hope this tool enhances your experience as a resident and citizen of our community.
         """
     )
     st.header("Example Questions")
