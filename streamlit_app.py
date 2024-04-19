@@ -5,7 +5,8 @@ try:
   from llama_index import VectorStoreIndex, ServiceContext, Document, SimpleDirectoryReader
 except ImportError:
   from llama_index.core import VectorStoreIndex, ServiceContext, Document, SimpleDirectoryReader
-st.set_page_config(page_title="Gingoog City Citizen Charter, layout="centered", initial_sidebar_state="auto", menu_items=None)
+  
+st.set_page_config(page_title="Chat with the Streamlit docs, powered by LlamaIndex", page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
 openai.api_key = st.secrets.openai_key
 st.title("Citizen's Charter, City Mayor's Office 💬🦙")
 st.info("Together we Can Unite", icon="📃")
